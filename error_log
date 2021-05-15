@@ -1,0 +1,144 @@
+[15-Mar-2021 15:33:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/eccent37/public_html/dossie_piloto.php:23
+Stack trace:
+#0 /home2/eccent37/public_html/index.php(72): include()
+#1 {main}
+  thrown in /home2/eccent37/public_html/dossie_piloto.php on line 23
+[15-Mar-2021 16:19:31 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 16:21:45 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 16:57:21 America/Fortaleza] PHP Warning:  include(visita3.php): failed to open stream: No such file or directory in /home2/eccent37/public_html/index.php on line 72
+[15-Mar-2021 16:57:21 America/Fortaleza] PHP Warning:  include(visita3.php): failed to open stream: No such file or directory in /home2/eccent37/public_html/index.php on line 72
+[15-Mar-2021 16:57:21 America/Fortaleza] PHP Warning:  include(): Failed opening 'visita3.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/eccent37/public_html/index.php on line 72
+[15-Mar-2021 19:35:44 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:37:59 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:38:52 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:39:58 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:40:35 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:41:33 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:41:47 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:42:31 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:45:04 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:45:48 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:46:54 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:48:11 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:49:10 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:49:28 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:50:21 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:52:14 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:53:03 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:53:52 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:54:31 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:56:51 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:58:21 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 19:59:06 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 20:24:34 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 20:25:15 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 21:45:41 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[15-Mar-2021 21:47:50 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[16-Mar-2021 03:20:54 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/eccent37/public_html/dossie_piloto.php:23
+Stack trace:
+#0 /home2/eccent37/public_html/index.php(72): include()
+#1 {main}
+  thrown in /home2/eccent37/public_html/dossie_piloto.php on line 23
+[16-Mar-2021 06:01:26 America/Fortaleza] PHP Warning:  include(maisNoticias.php): failed to open stream: No such file or directory in /home2/eccent37/public_html/index.php on line 72
+[16-Mar-2021 06:01:26 America/Fortaleza] PHP Warning:  include(maisNoticias.php): failed to open stream: No such file or directory in /home2/eccent37/public_html/index.php on line 72
+[16-Mar-2021 06:01:26 America/Fortaleza] PHP Warning:  include(): Failed opening 'maisNoticias.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/eccent37/public_html/index.php on line 72
+[16-Mar-2021 08:19:40 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[16-Mar-2021 08:20:34 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[16-Mar-2021 08:21:13 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[16-Mar-2021 08:22:37 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 203
+[16-Mar-2021 09:18:17 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 09:28:26 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 10:11:26 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 10:12:25 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 10:21:57 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 10:21:57 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 10:21:57 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 10:24:09 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 10:40:02 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 10:40:42 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 10:42:16 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 11:47:39 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 11:47:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/eccent37/public_html/dossie_piloto.php:23
+Stack trace:
+#0 /home2/eccent37/public_html/index.php(72): include()
+#1 {main}
+  thrown in /home2/eccent37/public_html/dossie_piloto.php on line 23
+[16-Mar-2021 11:48:20 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 12:14:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/eccent37/public_html/dossie_piloto.php:23
+Stack trace:
+#0 /home2/eccent37/public_html/index.php(72): include()
+#1 {main}
+  thrown in /home2/eccent37/public_html/dossie_piloto.php on line 23
+[16-Mar-2021 12:45:27 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 14:41:59 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 14:42:43 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 15:25:37 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 15:26:38 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 19:24:05 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 19:24:49 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 19:25:49 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 19:26:31 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 19:27:13 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 19:28:08 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 19:28:52 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 19:29:33 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 19:30:16 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 19:30:55 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 20:03:55 America/Fortaleza] PHP Warning:  include(maisNoticias.php): failed to open stream: No such file or directory in /home2/eccent37/public_html/index.php on line 72
+[16-Mar-2021 20:03:55 America/Fortaleza] PHP Warning:  include(maisNoticias.php): failed to open stream: No such file or directory in /home2/eccent37/public_html/index.php on line 72
+[16-Mar-2021 20:03:55 America/Fortaleza] PHP Warning:  include(): Failed opening 'maisNoticias.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/eccent37/public_html/index.php on line 72
+[16-Mar-2021 20:22:36 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 20:23:29 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 21:06:36 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/eccent37/public_html/dossie_piloto.php:23
+Stack trace:
+#0 /home2/eccent37/public_html/index.php(72): include()
+#1 {main}
+  thrown in /home2/eccent37/public_html/dossie_piloto.php on line 23
+[16-Mar-2021 21:14:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/eccent37/public_html/dossie_piloto.php:23
+Stack trace:
+#0 /home2/eccent37/public_html/index.php(72): include()
+#1 {main}
+  thrown in /home2/eccent37/public_html/dossie_piloto.php on line 23
+[16-Mar-2021 21:23:51 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 21:25:57 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 21:32:27 America/Fortaleza] PHP Warning:  include(maisNoticias.php): failed to open stream: No such file or directory in /home2/eccent37/public_html/index.php on line 72
+[16-Mar-2021 21:32:27 America/Fortaleza] PHP Warning:  include(maisNoticias.php): failed to open stream: No such file or directory in /home2/eccent37/public_html/index.php on line 72
+[16-Mar-2021 21:32:27 America/Fortaleza] PHP Warning:  include(): Failed opening 'maisNoticias.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/eccent37/public_html/index.php on line 72
+[16-Mar-2021 22:57:48 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[16-Mar-2021 22:58:44 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[17-Mar-2021 11:50:22 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[17-Mar-2021 11:50:26 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[17-Mar-2021 11:54:36 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[17-Mar-2021 16:14:12 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/eccent37/public_html/dossie_piloto.php:23
+Stack trace:
+#0 /home2/eccent37/public_html/index.php(72): include()
+#1 {main}
+  thrown in /home2/eccent37/public_html/dossie_piloto.php on line 23
+[17-Mar-2021 17:43:09 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[17-Mar-2021 20:13:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home2/eccent37/public_html/dossie_piloto.php:23
+Stack trace:
+#0 /home2/eccent37/public_html/index.php(72): include()
+#1 {main}
+  thrown in /home2/eccent37/public_html/dossie_piloto.php on line 23
+[18-Mar-2021 09:34:13 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[18-Mar-2021 09:37:47 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[18-Mar-2021 09:39:30 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[18-Mar-2021 11:44:11 America/Fortaleza] PHP Warning:  include(arquivos%2Fframe'.php): failed to open stream: No such file or directory in /home2/eccent37/public_html/index.php on line 72
+[18-Mar-2021 11:44:11 America/Fortaleza] PHP Warning:  include(arquivos%2Fframe'.php): failed to open stream: No such file or directory in /home2/eccent37/public_html/index.php on line 72
+[18-Mar-2021 11:44:11 America/Fortaleza] PHP Warning:  include(): Failed opening 'arquivos%2Fframe'.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/eccent37/public_html/index.php on line 72
+[18-Mar-2021 20:31:42 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[18-Mar-2021 20:32:56 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[18-Mar-2021 20:34:20 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[18-Mar-2021 20:35:52 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[18-Mar-2021 20:53:42 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[18-Mar-2021 20:55:03 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[18-Mar-2021 20:55:55 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[18-Mar-2021 20:58:34 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[18-Mar-2021 21:44:02 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[18-Mar-2021 23:14:01 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[18-Mar-2021 23:15:03 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[19-Mar-2021 08:12:58 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[19-Mar-2021 08:24:03 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[19-Mar-2021 08:26:11 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[19-Mar-2021 08:27:01 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104
+[19-Mar-2021 08:27:59 America/Fortaleza] PHP Warning:  mysqli_result::fetch_assoc() expects exactly 0 parameters, 1 given in /home2/eccent37/public_html/relatorios/novo_relatorio.php on line 104

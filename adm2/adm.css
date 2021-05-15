@@ -1,0 +1,15 @@
+body {
+   font-family: arial, sans-serif;
+}
+table.bordas td{
+   border: 3px groove;
+   padding: 5px;
+}
+#tudo {
+width: 1024px;
+margin:0 auto;
+text-align:left; /* "remédio" para o hack do IE */
+}
+#conteudo {
+padding: 5px;
+}
