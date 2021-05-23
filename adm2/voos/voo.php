@@ -9,6 +9,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
 } else {
   if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $num            = $_POST['num'];
+    $num_new        = $_POST['num_new'];
     $icaoorigem     = $_POST['icaoorigem'];
     $icaodestino    = $_POST['icaodestino'];
     $vooanterior    = $_POST['vooanterior'];
@@ -16,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
     $posto          = $_POST['posto'];
 
 
-    $sql = "UPDATE voooficial SET num='$num', 
+    $sql = "UPDATE voooficial SET num='$num_new', 
                     icaoorigem ='$icaoorigem', 
                     icaodestino ='$icaodestino', 
                     vooanterior ='$vooanterior', 
@@ -36,7 +37,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
     <div class="col-md-2">
       <div class="form-group">
         <label for="num">Número</label>
-        <input class="form-control" type="text" name="num" value="<?php echo $row['num']; ?>">
+        <input class="form-control" type="text" name="num_new" value="<?php echo $row['num']; ?>">
       </div>
     </div>
   </div>
@@ -81,5 +82,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'GET') {
     </div>
   </div>
   <input class="btn btn-primary" name="Submit" type="submit" value="Gravar">
+  <input type="hidden" name="num" value="<?php echo $row['num']; ?>">
   <a href="index.php?pagina=voos/apaga&num=<?= $num ?>" class="btn btn-danger" role="button">Apagar</a>
 </form>
